@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "94c468a2-ac29-44f9-ade2-722095178357",
+    "appType": "clockface",
+    "appDisplayName": "clockface2",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_sleep",
+      "access_calendar",
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate",
+      "access_internet",
+      "access_location",
+      "run_background",
+      "access_exercise"
+    ],
+    "buildTargets": [
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "clockface2"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

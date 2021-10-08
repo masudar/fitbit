@@ -1,0 +1,222 @@
+<svg class="background">
+
+    <g transform="translate(50%,50%)">
+      <g class="primary">
+        <circle cx="0%" cy="0%" r="80" />
+      </g>
+      <g transform="rotate(5.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(16.825)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(28.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(39.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(50.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(61.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(73.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(84.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(95.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(106.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(118.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(129.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(140.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(151.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(163.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(174.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(185.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(196.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(208.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(219.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(230.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(241.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(253.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(264.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(275.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(286.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(298.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(309.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(320.625)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(331.875)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(343.125)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+      </g>
+      <g transform="rotate(354.375)" class="primary">
+        <line x1="0" x2="200" stroke-width="5" />
+        <line y2="5" x2="200" stroke-width="5" />
+        <line y2="10" x2="200" stroke-width="5" />
+        <line y2="15" x2="200" stroke-width="5" />
+        <line y2="20" x2="200" stroke-width="5" />
+        <line y2="25" x2="200" stroke-width="5" />
+        <line y2="30" x2="200" stroke-width="5" />
+        <line y2="35" x2="200" stroke-width="5" />
+      </g>
+    </g>
+
+  <text id="myLabel1" />
+  <text id="myLabel2" />
+  <text id="myLabel3" />
+
+</svg>
+
